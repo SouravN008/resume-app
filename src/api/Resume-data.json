@@ -1,0 +1,105 @@
+{
+       "first_name": "Nainu",
+       "last_name": "Wadhwa",
+       "resume_name": "first one",
+       "level": "internship",
+       "profession": "ancd",
+       "email": "nainu@gmail.com",
+       "phone_number": "861728",
+       "city": "city",
+       "country": "country",
+       "pincode": "124001",
+       "github": "github",
+       "twitter": "twitter",
+       "linkedin": "bejded",
+       "portfolio_link": "portfolio_link",
+       "languages": "english,hindi",
+       "summary": "cbejbkejbfdkebf",
+       "accomplishment": "dbejdbwkdbkwbdkwbdw",
+       "education": [
+         {
+           "education_id": 1,
+           "school_name": "School Name 1",
+           "school_location": "Location 1",
+           "degree": "Degree 1",
+           "field_of_study": "Field of Study 1",
+           "degree_start_date": "2022-12-09",
+           "degree_end_date": "2022-12-09",
+           "current_attend_here": false
+         },
+         {
+           "education_id": 2,
+           "school_name": "School Name 2",
+           "school_location": "Location 2",
+           "degree": "Degree 2",
+           "field_of_study": "Field of Study 2",
+           "degree_start_date": "2022-12-09",
+           "degree_end_date": "2022-12-09",
+           "current_attend_here": true
+         }
+       ],
+       "work_experience": [
+         {
+           "work_id": 1,
+           "job_title": "Job Title 1",
+           "company_name": "Company Name 1",
+           "company_location": "Company Location 1",
+           "start_date": "2022-12-09",
+           "end_date": "2022-12-09",
+           "Description": "Description 1",
+           "currently_work_here": false
+         },
+         {
+           "work_id": 2,
+           "job_title": "Job Title 2",
+           "company_name": "Company Name 2",
+           "company_location": "Company Location 2",
+           "start_date": "2022-12-09",
+           "end_date": "2022-12-09",
+           "Description": "Description 2",
+           "currently_work_here": true
+         }
+       ],
+       "projects": [
+         {
+           "project_id": 1,
+           "project_name": "Project Name 1",
+           "project_link": "Project Link 1",
+           "description": "Description 1"
+         },
+         {
+           "project_id": 2,
+           "project_name": "Project Name 2",
+           "project_link": "Project Link 2",
+           "description": "Description 2"
+         }
+       ],
+       "skills": [
+         {
+           "skills_id": 1,
+           "top_technical_skills": "java,python",
+           "technical_skills": "java,python",
+           "non_technical_skills": "java,python",
+           "softwares": "java,python"
+         }
+       ],
+       "certificates": [
+         {
+           "certi_id": 1,
+           "certi_name": "Certificate Name 1",
+           "certi_link": "Certificate Link 1",
+           "certi_start_date": "2022-12-09",
+           "certi_end_date": "2022-12-09",
+           "currently_pursuing": false
+         },
+         {
+           "certi_id": 2,
+           "certi_name": "Certificate Name 2",
+           "certi_link": "Certificate Link 2",
+           "certi_start_date": "2022-12-09",
+           "certi_end_date": "2022-12-09",
+           "currently_pursuing": false
+         }
+       ]
+     }
+     
